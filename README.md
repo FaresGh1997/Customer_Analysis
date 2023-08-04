@@ -1,13 +1,13 @@
 # Customer_Analysis
 Customer Personality Analysis and Customer Segmentation using EDA and Clustering Techniques.
 
-Dataset Description: 
+##### Dataset Description: 
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. 
 It helps a business to better understand its customers and makes it easier for them to modify products according to the specific needs, behaviors and concerns of different types of customers.
 [link to the DataSet](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-The Task: 
+##### The Task: 
 
 Use EDA and Machine Learning Techniques to perform Customer Segmentation and help the company better understands its customers.
 
@@ -17,7 +17,7 @@ The Solution Process:
 - Clustering: using K-Means Clustering, Hierarchal Clustering and using calinski_harabasz_score, silhouette_score to determine the optimal number of clusters.
 - Data Visualization: used to evaluate the characteristics of the customers in the different clusters found the group.
 
-The Findings:
+##### The Findings:
 
 customers were divided into 4 segments:
 1. segment 1 (yellow): low spenders, undergraduate students with no kids, the least number of customers, low income.
