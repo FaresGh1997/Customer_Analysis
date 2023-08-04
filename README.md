@@ -22,10 +22,18 @@ The Solution Process:
 The Findings:
 
 customers where divided into 4 segments:
-1. segment 1: low spenders, undergraduate students with no kids, the least number of customers, low income.
-2. segment 2: low_to_average spenders, postgraduates with either no kids or 2 kids, the largest number of customers.
-3. segment 3: max spenders, postgraduates with either no kids or 1 kid.
-4. segment 4: average spenders, undergradutes and postgraduates with 1 kid.
+1. segment 1 (yellow): low spenders, undergraduate students with no kids, the least number of customers, low income.
+2. segment 2 (BLue): low spenders, postgraduates with either no kids or 2 kids, the largest number of customers, average income.
+3. segment 3 (black): max spenders, postgraduates with either no kids or 1 kid, high income.
+4. segment 4 (green): average spenders, undergradutes and postgraduates with 1 kid, average income.
 
-blob:vscode-webview://1lml192ghaglmfvneee2slkupqtnn8njol4tarcv57kq9uqmbcja/aee641eb-f73e-44cf-8a6e-49ad2e6a8936
+![segmentation based on spendings](https://github.com/FaresGh1997/Customer_Analysis/assets/114985388/81557deb-013f-49ac-9472-4fd3f05afcf9)
+
+Skills developed: pandas | scikit-learn | matplotlib | numpy | Clustering | Data Processing | Feature engineering | Dimensionality Reduction | Quality metrics | python | Orange | seaborn | Data Visulization.
+
+
+This repo is part of the MMDA course, HSE, Moscow, Russia.
+
+
+
 
