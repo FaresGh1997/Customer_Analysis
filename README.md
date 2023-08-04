@@ -22,9 +22,9 @@ The Solution Process:
 The Findings:
 
 customers where divided into 4 segments:
-1- segment 1: low spenders, undergraduate students with no kids, the least number of customers.
-2- segment 2: low_to_average spenders, postgraduates with either no kids or 2 kids, the largest number of customers.
-3- segment 3: max spenders, postgraduates with either no kids or 1 kid.
-4- segment 4: average spenders, undergradutes and postgraduates with 1 kid.
+1. segment 1: low spenders, undergraduate students with no kids, the least number of customers.
+2. segment 2: low_to_average spenders, postgraduates with either no kids or 2 kids, the largest number of customers.
+3. segment 3: max spenders, postgraduates with either no kids or 1 kid.
+4. segment 4: average spenders, undergradutes and postgraduates with 1 kid.
 
 
